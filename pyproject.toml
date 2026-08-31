@@ -1,7 +1,7 @@
 [project]
-name = "cs336_basics"
+name = "transformer_from_scratch"
 version = "26.0.0"
-description = "CS336 Assignment 1"
+description = "Transformer from Scratch"
 readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = [
