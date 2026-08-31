@@ -1,4 +1,4 @@
-# Story Generator Language Model From-Scratch
+# Story Generator Language Model
 
 A from-scratch transformer language model trained on the TinyStories dataset with approximately 40 million tokens.
 
